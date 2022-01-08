@@ -80,7 +80,6 @@ if __name__ == '__main__':
 			time.sleep(3)
 		
 	while True:
-		#try:
 		
 		# check if the CPU is overheating
 		if (CPUTemperature().temperature > 80.0):
